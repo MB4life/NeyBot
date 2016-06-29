@@ -3,7 +3,6 @@ package.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
 package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
->user_info @MB4Life
 
 VERSION = '2'
 
